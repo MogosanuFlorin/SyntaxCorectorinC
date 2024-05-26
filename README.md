@@ -20,5 +20,10 @@ Programul alocă dinamic memorie pentru matricea 2D a distanțelor pentru a gest
 
 ## Note
 
-Șirurile de intrare sunt limitate la 255 de caractere fiecare. Acest lucru poate fi ajustat modificând dimensiunea bufferului din funcția main.
-Caracterul de newline de la intrarea fgets este eliminat pentru a asigura o comparație corectă a șirurilor.
+- Șirurile de intrare sunt limitate la 255 de caractere fiecare. Acest lucru poate fi ajustat modificând dimensiunea bufferului din funcția main.
+- Caracterul de newline de la intrarea fgets este eliminat pentru a asigura o comparație corectă a șirurilor.
+- Pathul pentru fisierul input ar putea fi diferit pe sistemul dumneavoastra
+
+## Rulare:
+- Folositi un compilator de C
+- Tastati 1 sau 2 pentru a alege modul de testare
