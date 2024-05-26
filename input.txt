@@ -1,0 +1,20 @@
+fucn(myFuncion
+func(myFunction)
+clsCar)
+class(Car)
+nt variabl
+int variable
+flt pi
+float pi
+foi=0i<n,i++)
+for(i=0,i<n,i++)
+wile(n!=0
+while(n!=0)
+i(k=7)
+if(k==7)
+#incde<ctipe>
+#include<cctype>
+str(point
+struct(point)
+wle(k-5)
+while(k==5)
